@@ -1,1 +1,2 @@
 svn file
+git add some line
